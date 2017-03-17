@@ -1,3 +1,3 @@
-# WebBluetooth Plugin for Summon UIs
+# Cordova WebBluetooth Plugin
 
-Summon provides rudimentary support for the [WebBluetooth API](https://webbluetoothcg.github.io/web-bluetooth/) via [Evothings BLE plugin](https://github.com/evothings/cordova-ble) & [BLEAT adapter library](https://github.com/thegecko/bleat).
+This plugin provides rudimentary support for the [WebBluetooth API](https://webbluetoothcg.github.io/web-bluetooth/) via [Evothings BLE plugin](https://github.com/evothings/cordova-ble) & [BLEAT adapter library](https://github.com/thegecko/bleat).

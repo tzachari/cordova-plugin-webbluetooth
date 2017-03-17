@@ -9,6 +9,10 @@
       "ios"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzachari/cordova-plugin-webbluetooth"
+  },
   "keywords": [
     "bluetooth",
     "ble",
@@ -25,5 +29,5 @@
     }
   ],
   "author": "Thomas Zachariah",
-  "license": "Apache 2.0",
+  "license": "MIT",
 }
