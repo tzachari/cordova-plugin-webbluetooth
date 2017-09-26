@@ -11,5 +11,6 @@
     </platform>
     <js-module src="webbluetooth.js" name="webbluetooth">
         <clobbers target="webbluetooth" />
+        <clobbers target="bluetooth" />
     </js-module>
 </plugin>
