@@ -10,7 +10,7 @@
         <preference name="BLUETOOTH_USAGE_DESCRIPTION" default="Scans for peripherals and enables interactions with associated devices" />
     </platform>
     <js-module src="webbluetooth.js" name="webbluetooth">
+        <clobbers target="navigator.bluetooth" />
         <clobbers target="webbluetooth" />
-        <clobbers target="bluetooth" />
     </js-module>
 </plugin>
