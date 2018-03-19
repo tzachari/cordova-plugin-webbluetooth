@@ -1,5 +1,4 @@
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-plugin-webbluetooth" version="0.0.1">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-webbluetooth" version="0.0.2">
     <name>WebBluetooth</name>
     <description>Bluetooth Plugin</description>
     <author>Thomas Zachariah</author>
