@@ -11,9 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tzachari/cordova-plugin-webbluetooth"
+    "url": "git+https://github.com/tzachari/cordova-plugin-webbluetooth.git"
   },
   "keywords": [
+    "web bluetooth",
+    "webbluetooth",
     "bluetooth",
     "ble",
     "bluetooth low energy",
@@ -29,5 +31,9 @@
     }
   ],
   "author": "Thomas Zachariah",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tzachari/cordova-plugin-webbluetooth/issues"
+  },
+  "homepage": "https://github.com/tzachari/cordova-plugin-webbluetooth"
 }
